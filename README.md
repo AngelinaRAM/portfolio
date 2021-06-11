@@ -70,7 +70,29 @@ _QA engineer_
 
 ***
 
-### Знание языков
+## Ключевые навыки
+
+<code>Тестирование</code>
+<code>Smoke тестирование</code>
+<code>Тестирование UI</code>
+<code>Функциональное тестирование</code>
+<code>Регрессионное тестирование</code>
+<code>Написание тестовой документации</code>
+<code>SILK</code>
+<code>ALM</code>
+<code>SQL</code>
+<code>Postman</code>
+<code>Atlassian Confluence</code>
+<code>XML</code>
+<code>json</code>
+<code>TestLink</code>
+<code>Redmine</code>
+<code>Английский язык</code>
+<code>Итальянский язык</code>
+
+***
+
+## Знание языков
 
 Русский — Родной
 
